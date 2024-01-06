@@ -1,7 +1,5 @@
 # Awesome Space
-
 A curated list of space-related code, APIs, data, and other resources.
-
 [Please contribute!](contributing.md)
 
 ## Table of Contents
